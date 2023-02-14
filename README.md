@@ -39,7 +39,7 @@ $ cd ~/ros2_ws
 $ git clone https://github.com/ShotaAk/cpp_pubsub_gdb.git
 ```
 
-### CMAkeLists.txtにコンパイルオプションを追加する
+### CMakeLists.txtにコンパイルオプションを追加する
 
 ```cmake
 add_compile_options(-g)
